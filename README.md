@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=SHRUTI%20JADHAV&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Building%20Systems%20That%20Retrieve,%20Reason%20%26%20Respond&descAlignY=58&descSize=18&descColor=C4B5FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=SHRUTI%20JADHAV&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Building%20Systems%20That%20Retrieve,%20Reason%20and%20Respond&descAlignY=58&descSize=18&descColor=C4B5FD"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;RAG+%2B+LLM+Systems+Builder;Full-Stack+Engineer+(React+%2F+Flask);Currently+Building+NyayaAI+%26+Gemini+Clone" alt="Typing SVG" />
