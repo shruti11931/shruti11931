@@ -14,18 +14,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shruti-jadhav-832659360" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" />
-</a>
-<a href="mailto:shrutijadhav112008@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" />
-</a>
-<a href="https://github.com/shruti11931" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" />
-</a>
-
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shruti11931&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/shruti11931?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/shruti11931?style=flat-square&color=a78bfa&labelColor=1a1a2e&label=STARS)
