@@ -195,14 +195,17 @@ Worked on data collection, cleaning, and analysis to support decision-making thr
 
 ### 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shruti11931&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti11931&theme=tokyonight&hide_border=true&background=0F0C29&stroke=A78BFA&ring=8B5CF6&fire=A855F7&currStreakLabel=C4B5FD" />
+<img height="165" src="https://github-readme-stats-gamma-virid-42.vercel.app/api?username=shruti11931&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
+<img height="165" src="https://streak-stats.demolab.com/?user=shruti11931&theme=tokyonight&hide_border=true&background=0F0C29&stroke=A78BFA&ring=8B5CF6&fire=A855F7&currStreakLabel=C4B5FD" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti11931&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C4B5FD" />
+<img width="60%" src="https://github-readme-stats-gamma-virid-42.vercel.app/api/top-langs/?username=shruti11931&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C4B5FD" />
+
+
 
 </div>
 
